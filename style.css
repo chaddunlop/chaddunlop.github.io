@@ -65,7 +65,7 @@ header
     display: inline-block;
     text-decoration: underline;
     margin-left: 100px;
-    margin-right: -100px;
+    margin-right: -150px
 }
 .info {
     color: white;
@@ -133,7 +133,6 @@ body{
     background-size: contain;
     transform: rotate(270deg);
     border: 1px solid black;
-    border-radius:3px;
     
     
     
