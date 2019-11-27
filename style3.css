@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color:palegreen;
+}
+
+h1 {
+    color: white;
+    font-size: 40px;
+    margin-left: 4px;
+    font-display: block;
+    text-decoration:underline;
+    margin-top:4px;
+}
+
+h2 {
+    color: white;
+    font-size: 32px;
+    margin-left: 4px;
+    font-display: block;
+    margin-top:7px;
+}
+body {
+    background-image: url(ou.jpg);
+    background-position: right;
+}
